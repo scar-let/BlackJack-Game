@@ -1,0 +1,10 @@
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\bin\Debug\BLACKJACKkjw.exe.config
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\bin\Debug\BLACKJACKkjw.exe
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\bin\Debug\BLACKJACKkjw.pdb
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.csprojAssemblyReference.cache
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.Properties.Resources.resources
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.csproj.GenerateResource.cache
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.exe
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.pdb
+C:\Users\GG201305000032\source\repos\BLACKJACKkjw\BLACKJACKkjw\obj\Debug\BLACKJACKkjw.Form1.resources
